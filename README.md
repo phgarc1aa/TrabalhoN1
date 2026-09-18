@@ -10,6 +10,3 @@ O arquivo `/home/runner/work/TrabalhoN1/TrabalhoN1/trabalho_n1.sql` contém:
 - Scripts de inserção de dados (`INSERT`)
 - Scripts de manipulação (`SELECT` e `UPDATE`)
 
-## Link do repositório
-
-https://github.com/phgarc1aa/TrabalhoN1
